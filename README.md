@@ -4,8 +4,6 @@
   <a href="https://grandest-nothing.github.io/Gerador-Senha/">Acesse Meu App</a>
 </h3>
 
-<br>
-
 <p align="center">
   <img alt="gerador" src="./img/screenshot.png" width="100%">
 </p>
