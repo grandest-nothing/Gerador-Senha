@@ -1,7 +1,7 @@
 <h1 align="center"> Gerador de Senhas </h1>
 
 <h3 align="center">
-  <a href="https://nlw-copa-three.vercel.app">Acesse Meu App</a>
+  <a href="https://grandest-nothing.github.io/Gerador-Senha/">Acesse Meu App</a>
 </h3>
 
 <br>
